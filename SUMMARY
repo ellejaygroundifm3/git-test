@@ -1,3 +1,5 @@
 LIBRARY(WHATEVER)
 myfunction <-function(x)(
-SQR(X))
+
+ab(x))
+
