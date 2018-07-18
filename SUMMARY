@@ -1,2 +1,3 @@
 LIBRARY(WHATEVER)
-myfunction <-function(x)
+myfunction <-function(x)(
+SQR(X))
